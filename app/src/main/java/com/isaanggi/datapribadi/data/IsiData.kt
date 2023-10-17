@@ -64,7 +64,7 @@ object IsiData {
         Struktur(
             id = 10,
             nama = "Alfianto",
-            alamat = "Jl. Petung 31, Caturtunggal, Sleman, Yogyakarta",
+            alamat = "Jl. Petung No. 31, Caturtunggal, Sleman, Yogyakarta",
             gambar = R.drawable.gambar5
         ),
         Struktur(
@@ -76,7 +76,7 @@ object IsiData {
         Struktur(
             id = 12,
             nama = "Alfianto",
-            alamat = "Jl. Petung 31, Caturtunggal, Sleman, Yogyakarta",
+            alamat = "Jl. Petung No. 31, Caturtunggal, Sleman, Yogyakarta",
             gambar = R.drawable.gambar2
         ),
         Struktur(
@@ -88,7 +88,7 @@ object IsiData {
         Struktur(
             id = 14,
             nama = "Alfianto",
-            alamat = "Jl. Petung 31, Caturtunggal, Sleman, Yogyakarta",
+            alamat = "Jl. Petung No. 31, Caturtunggal, Sleman, Yogyakarta",
             gambar = R.drawable.gambar4
         ),
         Struktur(
